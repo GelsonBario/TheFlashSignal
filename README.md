@@ -20,13 +20,13 @@ Interface Responsiva e Estilizada: Os componentes foram estilizados para se adeq
 # 🚀 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-React Native: Framework para desenvolvimento de aplicativos móveis multiplataforma (iOS e Android) com JavaScript e React.
+-  [React Native:](https://reactnative.dev/) Framework para desenvolvimento de aplicativos móveis multiplataforma (iOS e Android) com JavaScript e React.
 
-Expo: Plataforma e conjunto de ferramentas construídas sobre o React Native para facilitar o desenvolvimento, a construção e a implantação de apps.
+-  [Expo:](https://expo.dev/) Plataforma e conjunto de ferramentas construídas sobre o React Native para facilitar o desenvolvimento, a construção e a implantação de apps.
 
-TypeScript: Superset do JavaScript que adiciona tipagem estática ao código, aumentando a robustez e a manutenibilidade do projeto.
+-  [TypeScript:](https://www.npmjs.com/package/typescript) Superset do JavaScript que adiciona tipagem estática ao código, aumentando a robustez e a manutenibilidade do projeto.
 
-React Hooks: Foram utilizados principalmente o useState para gerenciar o estado dos componentes (como a visibilidade do formulário) e o useEffect para controlar o temporizador da mensagem de sucesso.
+-  [React Hooks:](https://react.dev/reference/react/hooks) Foram utilizados principalmente o useState para gerenciar o estado dos componentes (como a visibilidade do formulário) e o useEffect para controlar o temporizador da mensagem de sucesso.
 
 # 📂 Estrutura de Pastas
 
@@ -77,7 +77,7 @@ O projeto foi organizado de forma a separar responsabilidades, facilitando a man
 # ⚙️ Como Executar o Projeto
 Para executar este projeto localmente, siga os passos abaixo:
 
-Clone o repositório:
+Clone repositório:
 
 ```
 git clone https://github.com/seu-usuario/the-flash-signal.git
